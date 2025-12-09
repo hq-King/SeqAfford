@@ -37,7 +37,7 @@
     <img src="fig1.png" height=500>
 </div>
 
-## I have quit the graduate program @ShanghaiTech Unversity in March 2024 while I am the co-first author, and therefore do not have the final version of the code. The code in this repository is my preliminary code from around September 2024, with some details potentially missing. However, to help the community follow up on our research, I have uploaded it here. But I noticed that the VDI group member@ShanghaiTech [Zhenhao Zhang](https://zhangzhh.cn/) have utilized this model to help with HOI generation, so you can check the details in his repo [OpenHOI](https://github.com/Zhenhao-Zhang/OpenHOI), which was accepted by NeurIPS 2025 as an oral paper. And [SeqAffordSplat](https://arxiv.org/abs/2507.23772) is also a follow-up research.
+## I have quit the graduate program @ShanghaiTech Unversity in March 2025 while I am the co-first author, and therefore do not have the final version of the code. The code in this repository is my preliminary code from around September 2024, with some details potentially missing. However, to help the community follow up on our research, I have uploaded it here. But I noticed that the VDI group member@ShanghaiTech [Zhenhao Zhang](https://zhangzhh.cn/) have utilized this model to help with HOI generation, so you can check the details in his repo [OpenHOI](https://github.com/Zhenhao-Zhang/OpenHOI), which was accepted by NeurIPS 2025 as an oral paper. And [SeqAffordSplat](https://arxiv.org/abs/2507.23772) is also a follow-up research.
 
 ## 📣 News
 
