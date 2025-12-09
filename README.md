@@ -29,13 +29,18 @@
 
 </div>
 
+
+
 > We introduce SeqAfford, a Multi-Modal Language Model (MLLM) capable of serialized affordance inference implied in human instructions: 1) Single Affordance Reasoning; 2) Sequential Affordance Reasoning; 3) Sequential Affordance Reasoning with Multiple Objects
 
 <div align="center">
     <img src="fig1.png" height=500>
 </div>
 
+## I have quit the graduate program @ShanghaiTech Unversity in March 2024 while I am the co-first author, and therefore do not have the final version of the code. The code in this repository is my preliminary code from around September 2024, with some details potentially missing. However, to help the community follow up on our research, I have uploaded it here. But I noticed that the VDI group member@ShanghaiTech [Zhenhao Zhang](https://zhangzhh.cn/) have utilized this mdoel to help with HOI generation, so you can check the details in his repo [OpenHOI](https://github.com/Zhenhao-Zhang/OpenHOI)
+
 ## 📣 News
+
 - [2/27/2025] 🎉🎉🎉SeqAfford has been accepted by CVPR 2025!!!🎉🎉🎉
 - [12/2/2024] SeqAfford has been released on Arxiv now!!!
 
