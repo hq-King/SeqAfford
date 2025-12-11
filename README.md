@@ -40,7 +40,7 @@
 ## I have quit the graduate program @ShanghaiTech Unversity in March 2025 while I am the co-first author, and therefore do not have the final version of the code. The code in this repository is my preliminary code from around September 2024, with some details potentially missing. However, to help the community follow up on our research, I have uploaded it here. But My friend [Zhenhao Zhang](https://zhangzhh.cn/)@ShanghaiTech have utilized this model to help with HOI generation, so you can check the details in his repo [OpenHOI](https://github.com/Zhenhao-Zhang/OpenHOI), which was accepted by NeurIPS 2025 as an oral paper. And [SeqAffordSplat](https://arxiv.org/abs/2507.23772) is also a follow-up research.
 
 ## 📣 News
-- [12/11/2025] Please check the repo [OpenHOI](https://github.com/Zhenhao-Zhang/OpenHOI) for the full datails seqafford!!!
+- [12/11/2025] Please check the repo [OpenHOI](https://github.com/Zhenhao-Zhang/OpenHOI) for the full datails of seqafford!!!
 - [2/27/2025] 🎉🎉🎉SeqAfford has been accepted by CVPR 2025!!!🎉🎉🎉
 - [12/2/2024] SeqAfford has been released on Arxiv now!!!
 
